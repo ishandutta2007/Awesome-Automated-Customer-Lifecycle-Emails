@@ -55,9 +55,9 @@ The sector exhibits **moderate-to-high fragmentation**: while large incumbents l
 
 ## 💻 Open-Source & Self-Hosted Frameworks
 
-All open-source repositories below are sorted in **descending order by GitHub stargazers**. Each project features an interactive GitHub social star badge linking directly to its stargazer community.
+All open-source repositories below are sorted in **descending order by GitHub stargazers**. Each project features an interactive GitHub social Stars_Badge linking directly to its stargazer community.
 
-| Project & Stars Badge | Description & Architecture | Primary Use Case |
+| Project & Stars_Badge | Description & Architecture | Primary Use Case |
 |---|---|---|
 | **[Novu](https://github.com/novuhq/novu)** <br/> [![Novu Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | Unified notification infrastructure for engineering teams. Delivers multi-channel workflows across email, SMS, push, chat, and in-app feeds with pre-built UI components and event digests. | Multi-channel product notifications & lifecycle digests |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** <br/> [![Chatwoot Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Open-source customer engagement suite. Integrates live-chat, email support inbox, conversation continuity, and automated customer communication channels. | Customer support continuity & omni-channel messaging |
